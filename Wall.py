@@ -1,1 +1,1 @@
-import post.cpython-311.so
+import post
